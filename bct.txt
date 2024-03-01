@@ -1,0 +1,12 @@
+Hi,
+
+
+It is a must to commit the new changes in the code in the current branch before switching to a different branch to retain the cod
+
+
+new line adde
+
+
+another new line addede
+
+Third new liie added
